@@ -1,4 +1,4 @@
-package com.prenotazioni.GestionePrenotazioni.model;
+package com.prenotazioni.gestioneprenotazioni.model;
 
 public enum TipoPostazione {
     PRIVATO,

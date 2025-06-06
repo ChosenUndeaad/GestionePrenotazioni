@@ -1,6 +1,8 @@
-package com.prenotazioni.GestionePrenotazioni.model;
+package com.prenotazioni.gestioneprenotazioni.model;
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
 @Data
